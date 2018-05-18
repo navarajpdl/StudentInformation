@@ -1,6 +1,9 @@
 ************
 this is the sample project on student information
 GPA calculation and student information
+average GPA of class
+average GPA of major : physics, math, cs
 
 
-higest GPA: student name who got higest and his gpa
+Higest GPA: student name who got higest and his gpa
+Lowest GPA: student name who got lowest and his gpa
